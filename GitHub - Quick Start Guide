@@ -1,0 +1,92 @@
+GitHub – Quick Start Guide
+
+This short guide explains how to:
+- create a GitHub account
+- upload files to a repository
+- manage files using GitHub’s web interface
+
+GitHub is an online platform used to:
+- store code and files
+- track changes over time
+- collaborate with other people
+
+A repository is an online folder that contains your project files
+
+1. Creating a GitHub Account
+
+Go to -> https://github.com
+Click Sign up
+Enter:
+- a username
+- an email address
+- a password
+Confirm your email address
+The free plan is sufficient
+
+2. Accessing a Repository
+
+A public repository can be viewed by anyone
+To modify files, you must be the owner, or be added as a collaborator
+
+To access a repository:
+Log in to GitHub
+Open the repository link in your browser
+
+3. Uploading Files
+
+a. Adding new files
+Open the repository
+Click Add file → Upload files
+Drag and drop files (or select them from your computer)
+Write a short message (e.g. “Add initial scripts”)
+Click Commit changes
+
+b. Creating folders
+Folders are created automatically when you upload files inside them
+
+4. Editing an Existing File
+
+Open the file in the repository
+Click the Edit icon
+Modify the content
+Write a short description of the change
+Click Commit changes
+GitHub keeps a full history of all changes.
+
+6. Downloading Files
+
+a. Download a single file
+Open the file → click Download
+
+b. Download the entire repository
+Click Code → Download ZIP
+
+7. Contributing Without Direct Access
+
+If you do not have write permission:
+Click Fork
+Make changes in your own copy
+Open a Pull Request
+The repository owner reviews and decides whether to accept it
+
+8. What you should NOT upload
+
+- Passwords
+- API tokens
+- Private keys
+- Real .env files
+- Sensitive or personal data
+
+Public repositories are visible to everyone.
+
+9. Basic Best Practices
+
+Use clear and descriptive file names
+Write short but meaningful commit messages
+Avoid uploading very large files
+Always read the README.md
+
+10. Useful Resources
+
+GitHub Documentation -> https://docs.github.com
+GitHub Hello World -> https://docs.github.com/get-started/quickstart
